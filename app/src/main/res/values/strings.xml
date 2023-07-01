@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="version_1_0">Version : 1.0</string>
+    <string name="start">Start</string>
+    <string name="admob_app_id" >ca-app-pub-7786392983080954~9799091134
+</string>
+    <string name="ad_id" >ca-app-pub-7786392983080954/5037719041</string>
+    <string name="tic_toc_toe">Tic Toc Toe</string>
+    <string name="play_with_friends">Play With Friends</string>
+    <string name="vibrate">Vibrate :</string>
+</resources>
